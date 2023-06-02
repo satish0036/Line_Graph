@@ -6,7 +6,7 @@ A React application to visualize COVID-19 cases, deaths, and recoveries using a 
 2. Clone this repository to your local machine using the following command : 
     git clone https://github.com/satish0036/Line_Graph.git
 3. Navigate to the project directory :
-    cd your-repository
+    cd Line_Graph
 4. Install the project dependencies :
     npm install
 5. To start the development server and run the project :
