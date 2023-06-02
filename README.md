@@ -3,13 +3,13 @@ A React application to visualize COVID-19 cases, deaths, and recoveries using a 
 
 ## To run this project locally on your computer, follow these steps:
 1. Make sure you have Node.js and npm (Node Package Manager) installed.
-2. Clone this repository to your local machine using the following command: 
+2. Clone this repository to your local machine using the following command : 
     git clone https://github.com/satish0036/Line_Graph.git
-3. Navigate to the project directory:
+3. Navigate to the project directory :
     cd your-repository
-4. Install the project dependencies:
+4. Install the project dependencies :
     npm install
-5. To start the development server and run the project 
+5. To start the development server and run the project :
     npm start
     
 ## How it Works 
